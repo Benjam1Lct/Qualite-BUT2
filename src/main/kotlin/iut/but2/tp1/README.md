@@ -22,12 +22,12 @@ La classe `Cellule<E>` est fournie.
 Implémentez une file chainée `FileChainee<E>` comme décrite
 par le diagramme de classes suivant :
 
-![](ressources/testmachine4_filechainee.png)
+![](../../../../../../ressources/testmachine4_filechainee.png)
 
 
 Le fonctionnement attendu de la file chainée est illustré par les schémas suivants :
 
-![](ressources/FileChainee.JPG)
+![](../../../../../../ressources/FileChainee.JPG)
 
 
 ### question n°2
